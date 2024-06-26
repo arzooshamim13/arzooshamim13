@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/karachi ka larka" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karachi ka larka" height="30" width="40" />
+  <a href="https://dev.to/arzooshamim13" target="blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="arzooshamim13" height="30" width="40" />
   </a>
 </p>
 
