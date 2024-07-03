@@ -21,7 +21,7 @@
   <a href="https://dev.to/arzooshamim13" target="blank">
     <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="arzooshamim13" height="30" width="40" />
   </a>
-  <a href="https://www.xing.com/profile/yourusername" target="blank">
+  <a href="https://www.xing.com/profile/Arzoo_Shamim" target="blank">
     <img align="left" src="https://cdn-icons-png.flaticon.com/512/408/408755.png" alt="Xing Profile" height="33" width="40" margin-left="30%" />
   </a>
 </p>
