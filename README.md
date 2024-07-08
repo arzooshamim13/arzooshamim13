@@ -15,16 +15,21 @@
 - 💬 Ask me about **HTML, CSS, and JavaScript**
 - 📫 How to reach me **nabeelqadri021@gmail.com**
 - ⚡ Fun fact **Songs with Coding**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/arzooshamim13" target="blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="arzooshamim13" height="30" width="40" />
+<p align="left" style="display: flex; align-items: center;">
+  <a href="https://dev.to/arzooshamim13" target="_blank" style="margin-right: 10px;">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Dev Community" height="33" width="40" />
   </a>
-  <a href="https://www.xing.com/profile/Arzoo_Shamim/web_profiles?expandNeffi=true" target="blank">
-    <img align="left" src="https://cdn-icons-png.flaticon.com/512/408/408755.png" alt="Xing Profile" height="33" width="40" margin-left="30%" />
+  <a href="https://www.xing.com/profile/Arzoo_Shamim/web_profiles?expandNeffi=true" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/408/408755.png" alt="Xing Profile" height="33" width="40" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61553304395320" target="_blank" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Facebook_Logo_2023.png/768px-Facebook_Logo_2023.png" alt="Facebook" height="36" width="40" />
   </a>
 </p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
