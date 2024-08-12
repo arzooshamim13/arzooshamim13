@@ -24,7 +24,7 @@
   <a href="https://www.xing.com/profile/Arzoo_Shamim/web_profiles?expandNeffi=true" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/408/408755.png" alt="Xing Profile" height="33" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/arzooshamim/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/arzoo-shamim/" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" height="33" width="40" />
   </a>
 </p>
