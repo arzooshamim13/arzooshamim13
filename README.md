@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Front-end Development**
 - 💬 Ask me about **HTML, CSS, and JavaScript**
-- 📫 How to reach me **nabeelqadri021@gmail.com**
+- 📫 How to reach me **arzooshamimdev@gmail.com**
 - ⚡ Fun fact **Songs with Coding**
 
 <h3 align="left">Connect with me:</h3>
