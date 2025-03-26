@@ -65,7 +65,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzooshamim13&" alt="arzooshamim13" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzooshamim13" alt="arzooshamim13" />
       </td>
     </tr>
   </table>
