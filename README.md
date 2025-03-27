@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **JavaScript & Frontend Development**  
 - 💬 Ask me about **HTML, CSS, and JavaScript**  
 - 📫 Reach me at **arzooshamimdev@gmail.com**  
-- ⚡ Fun fact: **I love coding while listening to Arijit's MashUp!**  
+- ⚡ Fun fact: **I love coding! With Coffee ☕**  
 
 ---
 
@@ -20,10 +20,7 @@
   <a href="https://www.linkedin.com/in/arzoo-shamim/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/arzooshamim13?logo=twitter&style=for-the-badge" alt="Twitter Badge" />
-  </a>
-</p>
+ </p>
 
 ---
 
