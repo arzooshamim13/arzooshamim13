@@ -1,58 +1,39 @@
-<h1 align="center">Hi 👋, I'm Arzoo Shamim</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+# 💫 About Me:
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arzooshamim13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+I'm **Arzoo Shamim**, a passionate **beginner web developer** and a student at **SMIT (Batch 4)**.  
+Currently learning **HTML, CSS, and JavaScript**, and I love creating small and useful web projects.  
+I'm on a journey to become a full-stack developer one day, step by step! 🚀
 
-- 🌱 I’m currently learning **JavaScript & Frontend Development**  
-- 💬 Ask me about **HTML, CSS, and JavaScript**  
-- 📫 Reach me at **arzooshamimdev@gmail.com**  
-- ⚡ Fun fact: **I love coding! With Coffee ☕**  
 
----
 
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://dev.to/arzooshamim13" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Dev Community" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/arzoo-shamim/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" />
-  </a>
- </p>
+# 💻 Tech Stack:
 
----
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
----
 
-<h3 align="left">💖 Support Me:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/arzooshamim13">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
----
+# 📊 GitHub Stats:
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzooshamim13&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=arzooshamim13&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzooshamim13&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=arzooshamim13&show_icons=true&theme=dark&hide_border=false&count_private=true" width="50%" /></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzooshamim13&theme=dark&hide_border=false" width="50%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzooshamim13&theme=dark&hide_border=false&layout=compact" width="50%" />
+
+</div>
+
+
+
+<div align="center">
+ Proudly created by Arzoo Shamim ✨
+ </div>
