@@ -28,7 +28,7 @@ I'm on a journey to become a full-stack developer one day, step by step! 🚀
   <img src="https://github-readme-stats.vercel.app/api?username=arzooshamim13&show_icons=true&theme=dark&hide_border=false&count_private=true" width="70%" /></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzooshamim13&theme=dark&hide_border=false" width="70%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzooshamim13&theme=dark&hide_border=false&layout=compact" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzooshamim13&theme=dark&hide_border=false&layout=compact" width="60%" />
 
 </div>
 
